@@ -48,12 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Proven experience in full-stack web development and firmware development for IoT applications from various internships and projects.
 education:
     - degree: Master of Digital Transformation and Innovation (MDTI)
       university: University of Ottawa
@@ -77,7 +72,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
+experience:
     - role: R&D Software Engineer Intern
       time: May 2020 - Present
       company: Stratosfy, Ottawa, Canada
@@ -119,17 +114,17 @@ projects:
         link: "https://nifty-heyrovsky-5b32f7.netlify.app/"
         tagline: "A responsive web application developed using  AngularJS and open-source Covid-19 API that displays live COVID-19 statistics. The website is designed to display worldwide and country-specific COVID cases (total cases, active cases, deaths, and recoveries). The application also displays a live bar chart and pie chart supported by Google’s chart API.  ."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Online Digital Content website using WordPress
+        link: "http://digitalreflectionss.com/"
+        tagline: "•	A responsive E-commerce website for online newspapers and magazines that is developed as part, of course, GNG-5124 (Internet Technologies and Mobile Commerce) at the University of Ottawa. The website is developed using WordPress."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Industrial IoT based Remote Terminal Unit (RTU) and smart coolant system.
+#         link: "#"
+        tagline: "•	Winner of 1st Prize for this project at a Hackathon where I Developed a prototype that collects the data in an industrial environment and pushes the data to the cloud using MQTT protocol. Raspberry Pi is used as the end device in the project."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Machine Learning based Driver Drowsiness Detection using Python
+#         link: "#"
+        tagline: "•	Developed a real-time computer vision application using OpenCV, Scikit-learn, Pandas, Numpy, and matplotlib libraries to detect the drowsiness of a person driving a car and alert the driver."
 
 # publications:
 #     title: Publications

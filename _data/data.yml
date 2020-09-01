@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: varma.abhiram97@gmail.com
     phone: 343 204 6958
-    website: abhiram040.github.io/online-cv/ #do not add http://
-    linkedin: abhiram kothapalli
+    website: abhiramkothapalli.com/ #do not add http://
+    linkedin: Abhiram Kothapalli
     github: abhiram040
 #     telegram: # add your nickname without '@' sign
 #     gitlab:
@@ -80,46 +80,44 @@ education:
 experiences:
     - role: R&D Software Engineer Intern
       time: May 2020 - Present
-      company: Stratosfy, Ottawa
+      company: Stratosfy, Ottawa, Canada
       details: |
           - Worked on the firmware development (C) of the next generation IoT based environmental data monitoring system called Environ. Explored various wireless technologies like Lora, Sigfox, and NB-IoT.
           - Designed and developed firmware for Silicon labs 32-bit microcontroller, LPWA module with external sensors. Worked on the Google Cloud Platform’s Cloud IoT Core to push the data from the end device to the cloud.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Developed drivers for multiple sensors and modules using communication protocols such as I2C, UART, and SPI. Used MQTT protocol and GSM module to publish and subscribe to the sensor data, telemetry interval, GPS interval, and timestamp to the google cloud platform and display the data in the web application. 
+          - Designed a POC for the LoRa variant of the Environ product that can transmit the sensor data through the gateway with low energy and long-range UART communication that can transmit the data up to 10 kilometers range with very minimal power requirement with a battery life up to 5 years.
+          - Worked on setting up the Lora server on the Google cloud platform to establish the connection between the Lora gateway and Lora server using the Cloud IoT core MQTT bridge.
+          - Involved in the Software development life cycle from design through implementation. 
+          
+    - role: Full Stack Developer Intern
+      time: December 2018 - April 2019
+      company: Capgemini, Benguluru, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Developed a POC for an E-commerce project using JAVA and Spring framework.
+          -  Worked on various tools for development and testing the website: Spring Boot, Servlet, JSP, XML, HTML, CSS, Javascript, Selenium, Git, Junit, and Postman. The application was developed using Spring boot and tested using the BDD
+#     - role: Machine Learning Intern
+#       time: 2012 - 2014
+#       company: Amazon, London
+#       details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem.
+#           - Bullet point
+#           - Bullet point
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are the list of projects that I worked on.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Responsive Website developed using MERN stack for the University of Ottawa.
+        link: "http://www.gespdc.com/"
+        tagline: "A responsive website template designed to help students, alumni, and employers promote, market, and apply for projects and events."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Covid-19 Tracker using Angular JS
+        link: "https://nifty-heyrovsky-5b32f7.netlify.app/"
+        tagline: "A responsive web application developed using  AngularJS and open-source Covid-19 API that displays live COVID-19 statistics. The website is designed to display worldwide and country-specific COVID cases (total cases, active cases, deaths, and recoveries). The application also displays a live bar chart and pie chart supported by Google’s chart API.  ."
 
       - title: Tempo
         link: "#"

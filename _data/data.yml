@@ -27,19 +27,19 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Fluent
+
+      - idiom: Telugu
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Gardening
         link:
 
-      - item: Snowboarding
+      - item: Skiing
         link:
 
       - item: Cooking

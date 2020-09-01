@@ -81,9 +81,9 @@ experiences:
     - role: R&D Software Engineer Intern
       time: May 2020 - Present
       company: Stratosfy, Ottawa
-      details: 
-          - Bullet point
-          - Bullet point
+      details: |
+          - Worked on the firmware development (C) of the next generation IoT based environmental data monitoring system called Environ. Explored various wireless technologies like Lora, Sigfox, and NB-IoT.
+          - Designed and developed firmware for Silicon labs 32-bit microcontroller, LPWA module with external sensors. Worked on the Google Cloud Platform’s Cloud IoT Core to push the data from the end device to the cloud.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
